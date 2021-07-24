@@ -19,8 +19,9 @@ Problem : Clinical Text CLassification
 
 ## Flow of the Project: 
 
-
-
-
+1. I have taken the kaggle dataset, and then followed the data science cycle for making a project.
+2. It starts with the introduction of the problem statement, and then discusses about the dataset.
+3. Having done the discussion, we go for some analysis of the target variable accompanied by some visualizations
+4. Having finished the analysis, we go for designing the model and applying various text pre-processing such as Bag of Words, Lemmatization, Stemming, TF-IDF, and observe the results.
 
 
