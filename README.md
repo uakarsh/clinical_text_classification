@@ -1,6 +1,6 @@
 ## About the Project:
 
-Problem : Clinical Text CLassification
+Problem : Clinical Text Classification
 - [Data](https://www.kaggle.com/tboyle10/medicaltranscriptions)
 
 - Implementation: I had taken inspiration from [Kaggle Dataset](https://www.kaggle.com/tboyle10/medicaltranscriptions), and implemented with the help of Sklearn's ML Library and some data manipulation libraries
